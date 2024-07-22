@@ -1,0 +1,12 @@
+{
+    "name": "paymentop",
+    "version": "1.0.0",
+    "description": "Paymentop test task, created by Volodymyr Lysetskyi",
+    "scripts": {
+      "build": "npm run build:dev",
+      "build:env": "npm run build:$ENV",
+      "build:dev": "node scripts/build.js dev",
+      "build:prod": "node scripts/build.js prod"
+    }
+  }
+  

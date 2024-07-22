@@ -1,0 +1,10 @@
+node_modules
+*.log
+tmp
+.temp
+docker
+dist
+.git
+.gitignore
+.DS_Store
+README.md
